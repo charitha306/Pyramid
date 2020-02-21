@@ -1,6 +1,6 @@
 # Pyramid Word
 
-This is a web application with a REST API, which could be used to provide a string as input and return a response indicating whether the word is a pyramid word or not. 
+This is a web application with a REST API, which could be used to check whether a word is a pyramid word or not. 
 
 Pre-requisits
 -----------------
